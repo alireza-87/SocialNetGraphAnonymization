@@ -28,4 +28,11 @@ Add and remove connection to the graph is done by probability:
 We start from 10% and increase the probeblity to 100%, as you will see , by increasing the probeblity more data will be lose  
 In 100% probeblity our graph will be a random graph, however, the nodes never change 
   
-  
+Orginal Graph:    
+![Orginal Graph](/image/orginal.png)  
+add 10%:  
+![added_10](/image/added_10.png)  
+remove 10%:  
+![removed_10](/image/removed_10.png)  
+final 10%:  
+![final_10](/image/final_10.png)  
