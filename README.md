@@ -1,0 +1,2 @@
+# SocialNetGraphAnonymization
+Socialnetwork graph anonymization by perturbation
