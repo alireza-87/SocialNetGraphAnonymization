@@ -6,6 +6,7 @@ Development Enviroment:
 * Python 3.7.6
 * Ubuntu
 * mini-conda venv
+* Xming(if you want to develop in WSL)
 * Dependencies
   * matplotlib
   * networkx-2.2
